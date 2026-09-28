@@ -18,7 +18,7 @@ This project compares arrival delays for **ALASKA** and **AM WEST** across five 
 
 | File | Description |
 | --- | --- |
-| [PBProject1AirlineDelays.ipynb](PreciousBrownProject1AirlineDelays.ipynb) | Notebook containing the code, tables, chart, and narrative discussion.  |
+| [PBProject1AirlineDelays.ipynb](PBProject1AirlineDelays.ipynb) | Notebook containing the code, tables, chart, and narrative discussion.  |
 | [airline_delays.csv](airline_delays.csv) | Flight counts transcribed from the assignment chart. |
 | [requirements.txt](requirements.txt) | Python packages needed to run the notebook locally. |
 | [README.md](README.md) | Project overview, setup instructions, methods, and findings. |
