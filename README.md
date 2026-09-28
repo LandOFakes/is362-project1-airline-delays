@@ -48,7 +48,7 @@ The data contains flight counts, not individual flight records or delay duration
 
 ### Google Colab
 
-1. Download `Precious_Brown_Project1_Airline_Delays.ipynb` from this repository.
+1. Download `PBProject1AirlineDelays.ipynb` from this repository.
 2. Open [Google Colab](https://colab.research.google.com/).
 3. Upload and open the notebook.
 4. Run the code cell, or run all cells in order.
@@ -70,7 +70,7 @@ Launch Jupyter Notebook:
 python -m notebook
 ```
 
-Open `Precious_Brown_Project1_Airline_Delays.ipynb` and run all cells. GitHub can display the saved notebook, but code execution takes place in Jupyter or Colab.
+Open `PBProject1AirlineDelays.ipynb` and run all cells. GitHub can display the saved notebook, but code execution takes place in Jupyter or Colab.
 
 ## Analysis Method
 
